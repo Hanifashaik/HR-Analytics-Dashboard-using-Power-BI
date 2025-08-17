@@ -86,6 +86,7 @@ Dashboard Development
 - Job involvement score = 2 (71 employees) and score = 3 (125 employees) have the highest attrition rates.
 
 - Employees in their current role for less than 3 years are most likely to leave.
+  <a href="file:///C:/Users/hanif/OneDrive/Desktop/powerbi%20dashboard.pdf"> Dashboard </a>
 
 ## ✅ Final Conclusion
 
