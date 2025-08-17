@@ -17,6 +17,7 @@ The goal of this project was to design an interactive HR Analytics Dashboard in 
 - Attrition status (Yes/No)
 
 - Dataset was cleaned, standardized, and transformed for accurate reporting.
+  <a href="https://github.com/Hanifashaik/HR-Analytics-Dashboard-using-Power-BI/blob/main/HR_Analytics.csv">DATA Used</a>
 
 ## ❓ Key Business Questions (KPIs)
 
